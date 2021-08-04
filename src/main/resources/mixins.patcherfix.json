@@ -4,6 +4,6 @@
   "package": "dev.isxander.patcherfix.mixins",
   "refmap": "mixins.patcherfix.refmap.json",
   "mixins": [
-    "AsyncBlockAndItemsMixin"
+    "ClassTransformerMixin"
   ]
 }
